@@ -2,7 +2,7 @@
 
 **Source article:** *From Excel to Insight: Building the EduTrack Campus Dashboard in Power BI*  
 **Date shown in the article:** October 20, 2026  
-**Author label in source:** @Samson
+**Author label in source:** @Oguntade Samson Bukola
 
 This file preserves the article's main structure, workflow, DAX examples, findings, limitations, and recommendations. It is a documented version of the uploaded source article, not an independent audit of the PBIX.
 
